@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "94186381997",
+    "project_id": "here-we-go-62f7e",
+    "storage_bucket": "here-we-go-62f7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94186381997:android:393596a10744631977dc24",
+        "android_client_info": {
+          "package_name": "com.example.herewego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94186381997-92otmo573jova5o8hr3ffk2vim66rigc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQFWnwRjDOf4g-hAoc3-quZHZ5maikRrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94186381997-92otmo573jova5o8hr3ffk2vim66rigc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
